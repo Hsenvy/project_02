@@ -67,7 +67,7 @@ $(function(){
             // console.log(res.token)
             // layer.msg('登录成功')
             localStorage.setItem('token', res.token)
-            location.href = '/index.html'
+            location.href = '/05HTTP传输协议及MySQL数据库/05综合性后台管理系统项目实战/code/index.html'
 
         })
     })
